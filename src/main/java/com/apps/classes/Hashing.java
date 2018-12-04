@@ -12,6 +12,7 @@ public class Hashing {
 	public int calculateBongPrice(int bonds) {
 		return bonds * 15;
 	}
+	
 	public static void main(String[] args) {
 		System.out.println("Comes hashing");
 		Hashing hashing = new Hashing();
